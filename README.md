@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **FullStack, Solidity ,Motoko**
 
-- 📫 How to reach me **21bec015@nith.ac.in**
+- 📫 How to reach me **devstudent15@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
