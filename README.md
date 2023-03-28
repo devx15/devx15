@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devx15&label=Profile%20views&color=0e75b6&style=flat" alt="devx15" /> </p>
 
-- 🔭 I’m currently working on **Supply Chain Management**
+- 🔭 I’m currently working on **Supply Chain Management Project**
 
 - 👯 I’m looking to collaborate on **Blockchain Development**
 
